@@ -12,13 +12,13 @@ Draw a digit on your PC. An Arduino Uno runs a small neural network on the board
 ### HTTPS Method
 ```
 git clone https://github.com/PJ-Caleon/MNIST-Neural-Network-Uno.git
-cd cd MNIST-Neural-Network-Uno/
+cd MNIST-Neural-Network-Uno/
 ```
 
 ### SSH
 ```
 git git@github.com:PJ-Caleon/MNIST-Neural-Network-Uno.git
-cd cd MNIST-Neural-Network-Uno/
+cd MNIST-Neural-Network-Uno/
 ```
 
 ## Naming Branch Rule
