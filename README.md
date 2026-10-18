@@ -45,7 +45,7 @@ git push -u origin <branch-name>
 
 Then go to github to make a pull request. In the pull request, in the description add
 ```
-#<issue number>
+closes #<issue number>
 ```
 
 to tell what PR this issue closes
