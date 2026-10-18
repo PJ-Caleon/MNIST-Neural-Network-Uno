@@ -7,7 +7,48 @@ Draw a digit on your PC. An Arduino Uno runs a small neural network on the board
 **Contents:** [About](#about) · [System Design](#system-design) · [Firmware Design](#firmware-design)
 
 ---
+## How to clone
 
+### HTTPS Method
+```
+git clone https://github.com/PJ-Caleon/MNIST-Neural-Network-Uno.git
+cd cd MNIST-Neural-Network-Uno/
+```
+
+### SSH
+```
+git git@github.com:PJ-Caleon/MNIST-Neural-Network-Uno.git
+cd cd MNIST-Neural-Network-Uno/
+```
+
+## Naming Branch Rule
+
+Each issue must create a new branch 
+
+To create a branch, first always `git pull` then
+```
+git switch -c <branch-name>
+```
+The branch name format will be like `p2-23` which means phase 2 - issue 23 
+
+So as an example:
+```
+git switch -c p2-23
+```
+
+## How to Make a PR
+```
+git add .
+git commit -m "something"
+git push -u origin <branch-name>
+```
+
+Then go to github to make a pull request. In the pull request, in the description add
+```
+#<issue number>
+```
+
+to tell what PR this issue closes
 ## About
 
 ### Overview
