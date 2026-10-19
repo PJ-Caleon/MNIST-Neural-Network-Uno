@@ -5,6 +5,7 @@ Draw a digit on your PC. An Arduino Uno runs a small neural network on the board
 **Status:** design phase &nbsp;·&nbsp; **Board:** Arduino Uno R3 (ATmega328P) &nbsp;·&nbsp; **Languages:** C/C++ (firmware), Python (PC tools and training)
 
 **Contents:** [About](#about) · [System Design](#system-design) · [Firmware Design](#firmware-design)
+testing
 
 ---
 ## How to clone
