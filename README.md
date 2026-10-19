@@ -6,7 +6,7 @@ Draw a digit on your PC. An Arduino Uno runs a small neural network on the board
 
 **Contents:** [About](#about) · [System Design](#system-design) · [Firmware Design](#firmware-design)
 testing
-AIDAN TESTING
+
 ---
 ## How to clone
 
